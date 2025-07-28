@@ -1,0 +1,6 @@
+streamlit
+pandas
+transformers
+matplotlib
+seaborn
+reportlab
